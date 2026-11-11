@@ -1,4 +1,4 @@
-"""Обвязка AlfiHR для устного код-ревью. Контракты адаптеров описаны в README."""
+"""Код агента"""
 
 import asyncio
 from copy import deepcopy
